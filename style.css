@@ -53,7 +53,7 @@ header h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     margin-bottom: 10px;
     animation: glow 2s ease-in-out infinite alternate;
-    font-family: 'Playwrite+NO', sans-serif;
+    font-family: 'Playwrite NO', sans-serif;
 }
 
 @keyframes glow {
@@ -121,7 +121,7 @@ header h1 {
     color: #c41e3a;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     z-index: 1;
-    font-family: 'Permanent+Marker', monospace;
+    font-family: 'Permanent Marker', monospace;
 }
 
 .door-icon {
@@ -308,6 +308,7 @@ header h1 {
         font-size: 1.5em;
     }
 }
+
 
 
 
