@@ -120,6 +120,7 @@ header h1 {
     font-weight: bold;
     color: #c41e3a;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    animation: glow 1s ease-in-out infinite alternate;
     z-index: 1;
     font-family: 'Playwrite NO'; /*'Permanent Marker'*/
 }
@@ -308,6 +309,7 @@ header h1 {
         font-size: 1.5em;
     }
 }
+
 
 
 
