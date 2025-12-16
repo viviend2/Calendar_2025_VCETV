@@ -14,7 +14,7 @@ const surpriseLinks = {
     12: "D18AE0FF-A6B1-4E36-BE62-25CB9D1F4079.JPG",
     13: "IMG_3829.HEIC",
     14: "IMG_4475.HEIC",
-    15: "IMG_5765.HEIC",
+    15: "IMG_3746.HEIC",
     16: "IMG_6376.HEIC",
     17: "IMG_6350.HEIC",
     18: "IMG_7077.HEIC",
@@ -24,7 +24,7 @@ const surpriseLinks = {
     22: "IMG_9396.HEIC",
     23: "IMG_9403.HEIC",
     24: "IMG_9717.JPG",
-    25: "IMG_6376.HEIC"
+    25: "56afe610-98ed-45fd-89e5-a2b21c7c47f3.JPG"
 };
 
 // Initialize the calendar
@@ -214,6 +214,7 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
 
 
 
