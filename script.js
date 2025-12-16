@@ -12,7 +12,7 @@ const surpriseLinks = {
     10: "11fd96cb-b523-41b5-b6a6-9509c9f1115d.JPG",
     11: "411dd764-503d-4193-87e6-163f823dcd55.JPG",
     12: "D18AE0FF-A6B1-4E36-BE62-25CB9D1F4079.JPG",
-    13: "IMG_3829.HEIC",
+    13: "Gold Luxury Happy Birthday Video.jpg",
     14: "IMG_4475.HEIC",
     15: "IMG_3746.HEIC",
     16: "IMG_6376.HEIC",
@@ -214,6 +214,7 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
 
 
 
